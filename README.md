@@ -1,0 +1,1 @@
+This repository is a collection of resources and learning materials that I use while learning artificial intelligence with its related field and subfields.
